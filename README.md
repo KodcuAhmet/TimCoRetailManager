@@ -1,2 +1,2 @@
 # TimCoRetailManager
-A c#/,NET practice project
+A c#/.NET practice project
